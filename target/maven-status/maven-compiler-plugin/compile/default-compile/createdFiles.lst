@@ -1,0 +1,8 @@
+br\edu\ifnmg\produtos\Vestimenta.class
+br\edu\ifnmg\produtos\Visitor_TaxasPortugal.class
+br\edu\ifnmg\produtos\Visitor_ProtocoloTaxa.class
+br\edu\ifnmg\produtos\Visitor_TaxasBrasil.class
+br\edu\ifnmg\produtos\Program.class
+br\edu\ifnmg\produtos\Alimento.class
+br\edu\ifnmg\produtos\Eletronico.class
+br\edu\ifnmg\produtos\Produto.class
